@@ -1,4 +1,4 @@
-# osTicket-Password-Reset
+# osTicket Password Reset
 Resetting a users password with osTicket.
 
 
