@@ -25,7 +25,7 @@ Agents will be able to see live tickets in the agent panel. Queue managers will 
 <img src="https://i.imgur.com/XX21kcZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this example we are setting the priority level of the ticket. The priority has been set to Emergency since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans. 
+In this example we are setting the priority level of the ticket. The priority has been set to high since we are dealing with an issue that can effect an entire portion of the business. We have changed the SLA plan and assigned the ticket to a top level technician. In some ticketing system customers can set their own SLA plans. 
 </p>
 <br />
 <p>
